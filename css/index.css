@@ -1,0 +1,18 @@
+.direction-flex {
+    flex-direction: row-reverse;
+    margin-top: 100px;
+}
+
+.com-icons a {
+    padding: 15px;
+}
+
+.com-icons img {
+    object-fit: contain;
+}
+
+@media only screen and (max-width: 900px) {
+    .direction-flex {
+        margin-top: 20px;
+    }
+}
