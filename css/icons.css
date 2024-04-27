@@ -37,7 +37,7 @@
 }
 
 .mi-arrow-left:before {
-    content: "\e903";
+    content: "\2190";
 }
 
 .mi-arrow-left-down:before {
@@ -49,7 +49,7 @@
 }
 
 .mi-arrow-right:before {
-    content: "\e906";
+    content: "\2192";
 }
 
 .mi-arrow-right-down:before {

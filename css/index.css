@@ -11,8 +11,20 @@
     object-fit: contain;
 }
 
+#about iframe {
+    width: 100% !important;
+}
+
+
 @media only screen and (max-width: 900px) {
     .direction-flex {
         margin-top: 20px;
+    }
+}
+
+@media only screen and (max-width: 991px) {
+    iframe {
+        width: 100% !important;
+        height: 300px;
     }
 }
